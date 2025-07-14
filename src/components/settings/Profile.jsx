@@ -12,8 +12,8 @@ const Profile = () => {
 				/>
 
 				<div>
-					<h3 className='text-lg font-semibold text-gray-100'>John Doe</h3>
-					<p className='text-gray-400'>john.doe@example.com</p>
+					<h3 className='text-lg font-semibold text-gray-100'>Benu Gopal Kanjilal</h3>
+					<p className='text-gray-400'>benugopal2005@gmail.com</p>
 				</div>
 			</div>
 
